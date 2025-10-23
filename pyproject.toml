@@ -1,9 +1,10 @@
 [project]
 
-name = "OCC_spatial"
-version = "0.0.1"
+name = "occ_climate"
+version = "0.0.7"
 authors = [
-  { { name="Jerry Liu", email="write874260@gmail.com" },{name= "Dr. Rebecca Beadling", email= "rebecca.beadling@temple.edu"}
+ { name="Jerry Liu", email="write874260@gmail.com" },
+ {name= "Dr. Rebecca Beadling", email= "rebecca.beadling@temple.edu"}
 ]
 description = "function of Ocean Climate Connections (OCC) Research Group at Temple University!"
 readme = "README.md"
